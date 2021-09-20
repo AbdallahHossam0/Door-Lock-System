@@ -3,7 +3,7 @@
 
 #### For the first time you run it, you will be asked to set a password by entering it twice, thet must be matched at two times if no you will be asked to set the password again. For the times after that you will choose 1 task from 
 1. Change the password
-2. 2. Open the door.
+2. Open the door.
 
 #### 1. Change the password:
 To change the it, you will be asked about the current password, if you entered the password correctly, you will be able to change the password.
